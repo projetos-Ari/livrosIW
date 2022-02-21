@@ -8,9 +8,34 @@ body {
 }
 
 .texto{
-    color:	#FF0000;
+    color:	#ee3e3e;
     text-align: center;
+    font-family: 'Roboto Serif', sans-serif;
     
   }
 
+  .p1{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: #8B0000;
+    font-family: 'Roboto Serif', sans-serif;
+}
+
+.p2{
+    font-family: 'Roboto Serif', sans-serif;
+    color:	#ee3e3e;
+    text-align: center;
+}
+.imagem{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    margin: 0 auto;
+    margin-top: 20px;
+    width: 20%;
+    margin-left: 20%;
+}
 
