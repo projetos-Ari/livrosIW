@@ -1,0 +1,16 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #FFB6C1;
+    background-repeat: round;
+}
+
+.texto{
+    color:	#FF0000;
+    text-align: center;
+    
+  }
+
+
