@@ -2,10 +2,12 @@ html {
     scroll-behavior: smooth;
 }
 
+
 body {
     background-color: #FFB6C1;
     background-repeat: round;
 }
+
 
 .texto{
     color:	#ee3e3e;
@@ -19,7 +21,7 @@ body {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
-    color: #8B0000;
+    color: black;
     font-family: 'Roboto Serif', sans-serif;
 }
 
